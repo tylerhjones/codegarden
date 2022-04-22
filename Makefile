@@ -2,5 +2,5 @@
 .DEFAULT_GOAL := build
 
 build:
-	@python -m install requirements.txt
+	@python -m pip install -r requirements.txt
 	@python build.py
