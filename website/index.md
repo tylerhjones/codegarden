@@ -1,13 +1,4 @@
 # Hello, welcome to my garden.
 
-I would like take you on a journey of `knowledge`.
+This site has been generated from markdown using [tark](https://pypi.org/project/tark/). A self-made markdown compiler with some strict opinions and a few features/shortcuts that I like.
 
-```java
-public class Test {
-    public static void main(String[] args) {
-        System.out.println("Lets learn things!");
-    }
-}
-```
-
-<div>inline html footer</div>
